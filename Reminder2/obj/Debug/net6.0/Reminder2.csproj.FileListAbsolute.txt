@@ -1,0 +1,15 @@
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\bin\Debug\net6.0\Reminder2.exe
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\bin\Debug\net6.0\Reminder2.deps.json
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\bin\Debug\net6.0\Reminder2.runtimeconfig.json
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\bin\Debug\net6.0\Reminder2.dll
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\bin\Debug\net6.0\Reminder2.pdb
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\Reminder2.csproj.AssemblyReference.cache
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\Reminder2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\Reminder2.AssemblyInfoInputs.cache
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\Reminder2.AssemblyInfo.cs
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\Reminder2.csproj.CoreCompileInputs.cache
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\Reminder2.dll
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\refint\Reminder2.dll
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\Reminder2.pdb
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\Reminder2.genruntimeconfig.cache
+C:\Users\ZaidJ\Desktop\C#Projects\Reminder2\Reminder2\obj\Debug\net6.0\ref\Reminder2.dll
